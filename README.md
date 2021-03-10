@@ -8,7 +8,7 @@ This is the Rust version of the [outerspace JavaScript package](https://www.npmj
 
 Methods for prefixing and suffixing the non-whitespace characters in a string.
 
-# Example
+# Examples
 
 ```rust
 let prefixed = outerspace::prefix_non_whitespace("\n\nHello hello\n\n", "> ");
