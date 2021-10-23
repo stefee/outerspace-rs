@@ -1,8 +1,8 @@
 [package]
 name = "outerspace"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Stef <stef@srilq.email>"]
-edition = "2018"
+edition = "2021"
 description = "Methods for prefixing and suffixing the non-whitespace characters in a string."
 license = "Apache-2.0"
 
