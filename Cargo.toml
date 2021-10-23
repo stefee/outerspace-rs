@@ -1,10 +1,11 @@
 [package]
 name = "outerspace"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Stef <stef@srilq.email>"]
 edition = "2021"
 description = "Methods for prefixing and suffixing the non-whitespace characters in a string."
 license = "Apache-2.0"
+repository = "https://github.com/stefee/outerspace-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
